@@ -1,7 +1,6 @@
-### Hi there 👋
+# Hi, I'm Compote
 
-<!--
-**Comp0te/Comp0te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Дорогу осилит идущий! <img src="https://github.com/Comp0te/Comp0te/blob/master/817326202.gif?raw=true" alt="Идущий Винни-Пух">
 
 Here are some ideas to get you started:
 
