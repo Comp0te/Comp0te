@@ -1,1 +1,1 @@
-<img src="https://github.com/Comp0te/Comp0te/blob/master/817326202.gif?raw=true" alt="Идущий Винни-Пух">**Дорогу осилит идущий!** <img src="https://github.com/Comp0te/Comp0te/blob/master/817326202.gif?raw=true" alt="Идущий Винни-Пух">
+<img src="https://github.com/Comp0te/Comp0te/blob/master/817326202.gif?raw=true" alt="Идущий Винни-Пух">
